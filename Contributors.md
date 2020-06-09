@@ -9,6 +9,7 @@
 - [Matthew Finley](https://github.com/m-fin)
   [David Baptista](https://github.com/hiperd00)
 - [Tushar Bochare](https://github.com/mytusshar)
+- [AvinashDv](https://github.com/avinashdv)
 - [Sumit Yadav](https://github.com/sumityadav29)
 - [Archie Lewis] (https://github.com/acl76)
 - [Akhilesh Sharma] (https://github.com/plat2eau)
